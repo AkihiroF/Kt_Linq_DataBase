@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e94d6e73-ac12-436d-aa1f-cfb5add058f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/SecretInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kulikov_Valery_Linq_DataBase/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kulikov_Valery_Linq_DataBase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kulikov_Valery_Linq_DataBase/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Kulikov_Valery_Linq_DataBase.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Kulikov_Valery_Linq_DataBase.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/Kulikov_Valery_Linq_DataBase.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/bin/Debug/net6.0/Kulikov_Valery_Linq_DataBase.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/bin/Debug/net6.0/Kulikov_Valery_Linq_DataBase.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/bin/Debug/net6.0/Kulikov_Valery_Linq_DataBase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/bin/Debug/net6.0/Kulikov_Valery_Linq_DataBase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/bin/Debug/net6.0/Kulikov_Valery_Linq_DataBase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/bin/Debug/net6.0/Kulikov_Valery_Linq_DataBase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/Kulikov_Valery_Linq_DataBase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/ref/Kulikov_Valery_Linq_DataBase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/ref/Kulikov_Valery_Linq_DataBase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/refint/Kulikov_Valery_Linq_DataBase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Debug/net6.0/refint/Kulikov_Valery_Linq_DataBase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Kulikov_Valery_Linq_DataBase.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Kulikov_Valery_Linq_DataBase.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Kulikov_Valery_Linq_DataBase.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/Kulikov_Valery_Linq_DataBase.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Kulikov_Valery_Linq_DataBase/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +40,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/akihirof/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
-      "/Users/akihirof/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
-      "/Users/akihirof/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/akihirof/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/akihirof/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/akihirof/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Kulikov_Valery_Linq_DataBase" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -73,6 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1681213785734</updated>
       <workItem from="1681213786893" duration="460000" />
+      <workItem from="1681214265548" duration="260000" />
+      <workItem from="1681216867698" duration="2084000" />
     </task>
     <servers />
   </component>
