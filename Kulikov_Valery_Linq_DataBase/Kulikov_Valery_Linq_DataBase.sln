@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kulikov_Valery_Linq_DataBase", "Kulikov_Valery_Linq_DataBase\Kulikov_Valery_Linq_DataBase.csproj", "{8E59FA30-CE9E-4CEB-AAFD-8B9F07EB780F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kulikov_Valery_Linq_DataBase", "Kulikov_Valery_Linq_DataBase\Kulikov_Valery_Linq_DataBase.csproj", "{91DC4E19-DC0D-43B1-82FF-CAFD549DF037}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8E59FA30-CE9E-4CEB-AAFD-8B9F07EB780F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8E59FA30-CE9E-4CEB-AAFD-8B9F07EB780F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8E59FA30-CE9E-4CEB-AAFD-8B9F07EB780F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8E59FA30-CE9E-4CEB-AAFD-8B9F07EB780F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DC4E19-DC0D-43B1-82FF-CAFD549DF037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DC4E19-DC0D-43B1-82FF-CAFD549DF037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DC4E19-DC0D-43B1-82FF-CAFD549DF037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DC4E19-DC0D-43B1-82FF-CAFD549DF037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
