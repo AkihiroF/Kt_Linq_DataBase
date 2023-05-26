@@ -8,11 +8,20 @@
     ".NETCoreApp,Version=v6.0": {
       "Kulikov_Valery_Linq_DataBase/1.0.0": {
         "dependencies": {
+          "CsvHelper": "30.0.1",
           "Microsoft.Data.Sqlite": "8.0.0-preview.2.23128.3",
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
           "Kulikov_Valery_Linq_DataBase.dll": {}
+        }
+      },
+      "CsvHelper/30.0.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "30.0.0.0",
+            "fileVersion": "30.0.1.0"
+          }
         }
       },
       "Microsoft.Data.Sqlite/8.0.0-preview.2.23128.3": {
@@ -201,6 +210,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "CsvHelper/30.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
+      "path": "csvhelper/30.0.1",
+      "hashPath": "csvhelper.30.0.1.nupkg.sha512"
     },
     "Microsoft.Data.Sqlite/8.0.0-preview.2.23128.3": {
       "type": "package",

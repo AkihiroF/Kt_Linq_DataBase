@@ -3,11 +3,12 @@ namespace Kulikov_Valery_Linq_DataBase
     public class SecretInfo
     {
 
-        public int Level{ get; set; }
+        public int level;
 
-        public string Color{ get; set; }
+        public string color;
 
-        enum SecretColor{}
-        public string Info{ get; set; }
+        public SecretColor secretColor;
+
+        public string info;
     }
 }
